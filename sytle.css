@@ -27,6 +27,7 @@ body {
 }
 .posts {
     background-color: white;
+    border-radius: 15px;
 }
 .main {
     background-color: white;
@@ -36,7 +37,7 @@ body {
 .item {
     padding: 20px;
     
-    border-radius: 15px
+    border-radius: 15px;
 
 }
 .item strong a {
